@@ -1,0 +1,38 @@
+#main{
+border: 2px solid black;
+height: 300px;
+width: 300px;
+text-align: center;
+
+}
+
+#sim{
+margin-top: 50px;
+  margin-bottom:20px;
+
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  background-color: blue;
+  color: antiquewhite;
+}
+
+#iKnew {
+  display: none;
+}
+
+#nao1 {
+  display: none;
+
+}
+
+#nao2 {
+  display: none;
+
+}
+
+#nao3 {
+  display: none;
+}
